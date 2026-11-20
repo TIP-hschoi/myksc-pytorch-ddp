@@ -1,0 +1,9 @@
+.venv/
+data/
+runs/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+._dbindex_/
+README.md
+img/
